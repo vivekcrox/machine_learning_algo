@@ -13,6 +13,15 @@
 
 📙 **Principal Component Analysis (PCA):** PCA is a dimensionality reduction technique that transforms high-dimensional data into a lower-dimensional representation while retaining the most important information. It's beneficial for simplifying complex datasets and enhancing the efficiency of subsequent algorithms.
 
-📝Each algorithm in this collection brings its own set of strengths, making this repository a comprehensive resource for various machine learning tasks. Whether you're looking to predict outcomes, classify data points, identify patterns, or streamline your feature space, this collection has you covered.
+📙 **Q-Learning Algorithm:** Q-Learning is a model-free reinforcement learning algorithm that learns to make decisions by interacting with an environment. It's particularly useful for tasks where the agent must make a sequence of decisions to maximize a cumulative reward.
 
+📙 **SARSA Algorithm:** SARSA (State-Action-Reward-State-Action) is another reinforcement learning algorithm that focuses on learning a policy for decision-making. It updates its Q-values based on the current state, action, reward, and the next state and action.
+
+📙 **Perceptron:** The Perceptron is a simple linear classification algorithm. It's a binary classifier that can learn to separate two classes based on a set of input features. While it's a basic model, it forms the foundation for more complex neural networks.
+
+📙 **Multilayer Perceptron (MLP):** The Multilayer Perceptron is an extension of the basic perceptron, featuring multiple layers of interconnected nodes. It's a powerful neural network architecture capable of learning complex relationships in data. The inclusion of hidden layers enables it to capture intricate patterns.
+
+
+📝Each algorithm in this collection brings its own set of strengths, making this repository a comprehensive resource for various machine learning tasks. Whether you're looking to predict outcomes, classify data points, identify patterns, or streamline your feature space, this collection has you covered.
+🛠 Whether you're a beginner looking to understand the basics or an experienced practitioner seeking reference implementations, this repository serves as a valuable resource for learning and experimenting with these essential machine learning algorithms. Contributions and feedback are always welcome!
 
